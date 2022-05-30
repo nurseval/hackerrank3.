@@ -1,2 +1,2 @@
-# hackerrank3.
+# hackerrank3pa
 Solve Me First
